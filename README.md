@@ -1,16 +1,14 @@
-Current functions:
+1st version (current):
 - can start a pomodoro with 25min by default, or a set time
+- can input task name
+- can reset an ongoing pomodoro
+- shows countdown by seconds
 - gives desktop notification at the end of pomodoro
 - can be minimized to the task bar
+- shows the number of pomodoros completed today 
+- keeps track of completed pomodoros in a csv file
 
-Functions to be added:
-- perform quality check at the end of pomodoro (was the pomodoro completed? y/n)
-- starts a break for 5min by default, or a set time
-- gives desktop notification at the end of the break
-- gives sound notification at the end of the break
-- show summary: you have completed X pomodoros today!
-
-Advanced functions:
+Future versions:
 - show stats of number of pomodoros completed over a period of time (day/week/month)
 - show stats in line chart
 - multi-language version
