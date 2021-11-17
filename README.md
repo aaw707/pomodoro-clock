@@ -8,6 +8,9 @@
 - shows the number of pomodoros completed today 
 - keeps track of completed pomodoros in a csv file
 
+problem:
+- doesn't show the number of completed pomodoros when started from the exe file
+
 Future versions:
 - show stats of number of pomodoros completed over a period of time (day/week/month)
 - show stats in line chart
